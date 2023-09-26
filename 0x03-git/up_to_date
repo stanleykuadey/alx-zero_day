@@ -1,3 +1,7 @@
+#Option 1
+git pull origin
+
+#Option 2
 #first check and be sure to be in local master branch
 git checkout main
 

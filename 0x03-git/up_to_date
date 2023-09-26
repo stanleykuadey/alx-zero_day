@@ -1,0 +1,8 @@
+#first check and be sure to be in local master branch
+git checkout main
+
+#fetch the latest changes from the remote repository(Github)
+git fetch origin
+
+#Finally merge the changes from the remote master branch into the local master
+git merge origin/master
